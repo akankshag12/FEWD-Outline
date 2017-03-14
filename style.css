@@ -1,0 +1,18 @@
+header 
+	{background-color: black;
+		text-align: center}
+
+body 
+	{font-family: arial;
+/*		padding-right: 20px;
+		padding-left: 20px; */
+		text-align: center;
+	}
+/*
+why does the header inherit the padding attribute? 
+how do i apply text-align to some elements of body but not all?
+mobile-responsive? 
+center text but still left-align 
+add images to the left/right of text - like tables or columns?
+wrap text? 
+*/
